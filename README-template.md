@@ -1,4 +1,4 @@
-# JobTrackr
+# Job Tracker
 
 A professional Vue 3 portfolio project for tracking job applications across stages like Saved, Applied, Interview, Offer, and Rejected.
 
@@ -9,7 +9,7 @@ A professional Vue 3 portfolio project for tracking job applications across stag
 - GitHub URL: `https://github.com/mirunijoel/job-tracker`
 
 ## Overview
-JobTrackr helps users manage their job hunt in one place by tracking applications, statuses, follow-up dates, and notes.  
+Job Tracker helps users manage their job hunt in one place by tracking applications, statuses, follow-up dates, and notes.  
 This project focuses on clean architecture, maintainability, and production-style frontend practices.
 
 ## Features

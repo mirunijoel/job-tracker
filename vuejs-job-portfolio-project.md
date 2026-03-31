@@ -1,6 +1,6 @@
-# JobTrackr - Vue Portfolio Project Roadmap
+# Job Tracker - Vue Portfolio Project Roadmap
 
-## Project Idea: JobTrackr (Job Application Tracker)
+## Project Idea: Job Tracker (Job Application Tracker)
 
 Build a web app where users can track job applications from "Saved" to "Interview" to "Offer/Rejected".
 

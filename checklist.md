@@ -1,4 +1,4 @@
-# JobTrackr Build Checklist
+# Job Tracker Build Checklist
 
 Use this as a daily tracker while building your Vue portfolio project.
 

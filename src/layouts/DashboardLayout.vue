@@ -1,7 +1,7 @@
 <template>
   <div class="shell">
     <header class="topbar">
-      <h1>JobTrackr</h1>
+      <h1>Job Tracker</h1>
       <nav>
         <RouterLink to="/">Dashboard</RouterLink>
         <RouterLink to="/jobs">Jobs</RouterLink>
